@@ -1,5 +1,4 @@
 # Cosmos Hub Mainnet
-
 ## Overview
 
 The current Gaia Version of the Cosmos Hub mainnet is [`v14.1.0`](https://github.com/cosmos/gaia/releases/tag/v14.1.0). To bootstrap a mainnet node, it is possible to sync from `v13.0.x` via Quicksync or via [State Sync](https://hub.cosmos.network/main/hub-tutorials/join-mainnet.html#state-sync).
